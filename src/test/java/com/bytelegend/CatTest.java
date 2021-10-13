@@ -8,3 +8,6 @@ public class CatTest {
         new Cat();
     }
 }
+
+public class Cat {
+}
