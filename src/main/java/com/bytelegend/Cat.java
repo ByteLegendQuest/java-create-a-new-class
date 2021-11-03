@@ -1,5 +1,4 @@
-package com.bytelegend.main.java.com.bytelegend;
+package com.bytelegend;
 
 public class Cat {
-    
 }
