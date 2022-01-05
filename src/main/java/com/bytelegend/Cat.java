@@ -1,4 +1,4 @@
-Public class Cat{
+public class Cat{
     Public static void main(String[] args){
         System.out.println("Cat");
     }
