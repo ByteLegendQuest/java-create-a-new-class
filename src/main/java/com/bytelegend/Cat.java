@@ -1,7 +1,11 @@
-public class CatTest {
-    @Test
-    public void testNewCat() {
-        new Cat();
-    }
+public static void main(String[] args) {
+public class Cat {
+
 }
+
+
+}
+
+    
+
 
