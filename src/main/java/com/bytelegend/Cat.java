@@ -1,5 +1,7 @@
-public class com.bytelegend.CatTest {
-
+public class CatTest {
+    @Test
+    public void testNewCat() {
+        new Cat();
+    }
 }
-
 
