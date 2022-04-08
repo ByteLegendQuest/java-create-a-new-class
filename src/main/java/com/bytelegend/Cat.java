@@ -1,4 +1,4 @@
-public class cat()
+public class Cat()
 {
     system.out.println("!!");
 }
