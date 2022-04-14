@@ -1,3 +1,3 @@
-public static void Cat{
-    
+public class Cat{
+
 }
