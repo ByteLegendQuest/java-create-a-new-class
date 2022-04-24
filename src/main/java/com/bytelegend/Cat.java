@@ -1,4 +1,2 @@
 
-public class CatTest{
-    
-}
+public class Cat
