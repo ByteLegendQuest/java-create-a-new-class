@@ -1,5 +1,6 @@
 package com.bytelegend;
 
-public class Cat {
-
- }.
+public class Cat {@Test
+    public void testNewCat() {
+        new Cat();
+    }}.
