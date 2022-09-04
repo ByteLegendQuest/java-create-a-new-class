@@ -1,4 +1,3 @@
-public class two{
+public class Cat{
 
-    system.out.pritnln("success");
 }
