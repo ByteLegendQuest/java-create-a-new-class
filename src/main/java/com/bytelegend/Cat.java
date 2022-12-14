@@ -1,3 +1,1 @@
-public class Cat {
-    int a;
-}
+public class Cat {}
