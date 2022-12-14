@@ -1,3 +1,5 @@
 public class Cat {
-    float a;
+    public void test() {
+        System.out.println("New Cat");
+    }
 }
