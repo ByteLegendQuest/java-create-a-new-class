@@ -1,4 +1,4 @@
-public class cat{
+public class Cat{
     String name;
     double age;
 }
