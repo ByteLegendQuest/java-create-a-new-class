@@ -1,15 +1,18 @@
- private String name;
-  private int age;
-  
-  public Student(String name, int age) {
-    this.name = name;
-    this.age = age;
-  }
-  
-  public String getName() {
-    return name;
-  }
-  
-  public int getAge() {
-    return age;
-  }
+public class Dog {
+    String breed;
+    int size;
+    String colour;
+    int age;
+ 
+    void eat() {
+    }
+ 
+    void run() {
+    }
+ 
+    void sleep(){
+    }
+ 
+    void name(){
+    }
+}
