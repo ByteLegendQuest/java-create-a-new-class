@@ -1,18 +1,5 @@
-public class Dog {
-    String breed;
-    int size;
-    String colour;
-    int age;
- 
-    void eat() {
-    }
- 
-    void run() {
-    }
- 
-    void sleep(){
-    }
- 
-    void name(){
-    }
+public clsaa Cat{
+  public class main void(String[] args){
+    System.out.println("hello,world");
+  }
 }
