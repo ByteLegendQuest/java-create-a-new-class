@@ -1,5 +1,5 @@
 public class Cat{
-    public static void main(){
+    public static void main(String[] args){
         
     }
 }
