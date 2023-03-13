@@ -1,4 +1,4 @@
-public class Cat{
+public class Cat {
     //声明一个字段
     private int myfirstclass
     //声明一个方法
