@@ -1,5 +1,5 @@
 public class Cat {
-    public static void main(String[] args){
-           System.out.println("Im a cat!"); 
+    public static void main (String[] args) {
+           System.out.println ("Im a cat!"); 
     }
 }
