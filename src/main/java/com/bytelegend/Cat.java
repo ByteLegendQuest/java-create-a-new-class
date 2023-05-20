@@ -1,4 +1,3 @@
-class cat
-{
-    
+public class cat{
+
 }
