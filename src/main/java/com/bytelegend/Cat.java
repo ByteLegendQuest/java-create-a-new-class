@@ -1,4 +1,5 @@
 public class Cat {
-    public Cat() {
+    public void Cat() {
+        new Cat();
     }
 }
