@@ -1,5 +1,5 @@
 public class Cat {
-    private final String name;
+    private String name;
     private int age;
     public Cat(String name, int age) {
         this.name = name;
